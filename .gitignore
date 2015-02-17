@@ -1,0 +1,7 @@
+.DS_Store
+.buildpath
+.project
+-project
+
+*.sublime-project
+*.sublime-workspace
